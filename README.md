@@ -32,4 +32,3 @@ An intelligent AI-powered research assistant built using **LangChain + LLMs** th
 - dotenv
 
 
-## 📂 Project Structure
